@@ -1,0 +1,24 @@
+{
+  "name": "memory-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "bun run index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.15.1",
+  "dependencies": {
+    "@ai-sdk/anthropic": "^2.0.23",
+    "@anthropic-ai/sdk": "^0.40.0",
+    "ai": "^5.0.60",
+    "zod": "^4.1.11"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}

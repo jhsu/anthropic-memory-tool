@@ -1,0 +1,4 @@
+memories/*
+node_modules
+.claude
+.env
