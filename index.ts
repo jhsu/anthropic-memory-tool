@@ -16,7 +16,7 @@ async function main() {
     messages: [
       {
         role: 'user',
-        content: 'Add a memory about AppNexus reunion this thursday.',
+        content: 'Add a memory about my love for TypeScript.',
       },
     ],
     tools: {

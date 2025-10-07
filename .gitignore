@@ -1,4 +1,4 @@
-memories/*
+memories/**/*.txt
 node_modules
 .claude
 .env
